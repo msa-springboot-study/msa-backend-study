@@ -1,0 +1,6 @@
+rootProject.name = 'msa-backend-study'
+include ':api:product-service'
+include ':api:review-service'
+include ':api:recommendation-service'
+include ':api:product-composite-service'
+
